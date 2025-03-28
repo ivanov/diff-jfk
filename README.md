@@ -1,5 +1,4 @@
-# `diff`
-# `-jfk`
+# `diff`<br />`-jfk`
 
 As of March 20th, there is a total of 2,343 documents released by the U.S.
 National Archives and Records Administration (NARA) in [JFK Assassination
@@ -40,11 +39,6 @@ The only visual differences in the `diff-jfk` generated documents that are omitt
 
 These trivial changes are not informative, so they has been explicitly omitted from "_fresh_" consideration. So a document that was initially released in 2023, and again released in 2025, would have a red mark in the last digit of the year in the banner on top of its first page, but such a page would not be considered "_fresh_" if there are no other changes on that first page. You will still see that red mark, however, if there were other changes to the page.
 
-## Minimal magic
-
-I didn't do anything fancy to try to get the pages to line up properly. Also, the approach I took with highlighting works pretty well for pages that were previously redacted in white, but isn't as legible for documents which were previously blacked out. So take this with a grain of salt. Hopefully it helps you identify *where* to look in the original document if you can't make it out in the `diff-jfk` version.
-
-Slight rotations, rescans, change to the cropping, and so on, make the previously unredacted parts of the document either hard to read or completely illegible. Nevertheless, despite this limitation, it's still makes it easier to scan the highlighted document to identify which pages to look at in the newly unredacted document. For example, scanning through the otherwise atrocious mess in the `diff-jfk` version of [2025/124-10179-10220_highlighted.pdf](./2025/124-10179-10220_highlighted.pdf), I was quickly able to come to page 37 that previously had censorship boxes, and looking on the same page of the [original](https://www.archives.gov/files/research/jfk/releases/2025/0318/124-10179-10220.pdf), I can see that the August 20, 1968 (Warsaw Pact invasion of Czechoslovakia) example of positive intelligence involved the wiretapping of, previously redacted, "the Soviet Mission to the United Nations". On the next page,  phrase "the Romanian Embassy" was omitted from a description of another wiretap, and further down the page the previously censored phrase of "intercepts on various missions to the United Nations and embassies" providing many indicators during Arab-Israeli Six Day War and the India-Pakistan War.
 
 ## Some samples
 
@@ -82,19 +76,43 @@ delegation in Rome during Colombian-Venezuelan border talks in 1973.
 
 The full-context [highlighted document](2025/104-10178-10000_highlighted.pdf) has 310 pages, whereas the [freshly declassified pages](2025/104-10178-10000_fresh.pdf) add up to 86. The image above is page 72 in the original document, and appears on page 9 of the fresh-only version.
 
-## Limitations
+## Limitations of Minimal Magic
+
+I didn't do anything fancy to try to get the pages to line up properly. Also,
+the approach I took with highlighting works pretty well for pages that were
+previously redacted in white, but isn't as legible for documents which were
+previously blacked out. So take this with a grain of salt. Hopefully it helps
+you identify *where* to look in the original document if you can't make it out
+in the `diff-jfk` version.
+
+Slight rotations, rescans, change to the cropping, and so on, make the
+previously unredacted parts of the document either hard to read or completely
+illegible. Nevertheless, despite this limitation, it's still makes it easier to
+scan the highlighted document to identify which pages to look at in the newly
+unredacted document. For example, scanning through the otherwise atrocious mess
+in the `diff-jfk` version of
+[2025/124-10179-10220_highlighted.pdf](./2025/124-10179-10220_highlighted.pdf),
+I was quickly able to come to page 37 that previously had censorship boxes, and
+looking on the same page of the
+[original](https://www.archives.gov/files/research/jfk/releases/2025/0318/124-10179-10220.pdf),
+I can see that the August 20, 1968 (Warsaw Pact invasion of Czechoslovakia)
+example of positive intelligence involved the wiretapping of, previously
+redacted, "the Soviet Mission to the United Nations". On the next page,  phrase
+"the Romanian Embassy" was omitted from a description of another wiretap, and
+further down the page the previously censored phrase of "intercepts on various
+missions to the United Nations and embassies" providing many indicators during
+Arab-Israeli Six Day War and the India-Pakistan War.
 
 There's more to be done, but I wanted to get this out there and not let
 perfect be the enemy of good enough. Here's an example of what's supposed to be
 the same document but having different page numbers. On the left hand side is
 Page 57 of 2023/docid-32404520.pdf and on the right is page 61 of
-2025/104-10332-10007.pdf (another example of "Department of State" and "State
-cover" being censored.
+2025/104-10332-10007.pdf 
 
 ![](images/104-10332-10007_State_cover.png)
 
 By the way, that's definitely one of the recurring themes for what I've come
-across being previously censored but not reveled in these documents: the use of
+across being previously censored but now reveled in these documents: the use of
 State department cover. It also came up in, to name just a few:
 20225/104-10330-10102.pdf and 2025/104-10330-10083.pdf
 
