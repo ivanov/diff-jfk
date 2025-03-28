@@ -96,7 +96,7 @@ illegible. Nevertheless, despite this limitation, it's still makes it easier to
 scan the highlighted document to identify which pages to look at in the newly
 unredacted document. For example, scanning through the otherwise atrocious mess
 in the `diff-jfk` version of
-[2025/124-10179-10220_highlighted.pdf](./2025/124-10179-10220_highlighted.pdf),
+[2025/124-10179-10220_highlighted.pdf](./2025/folder_6/124-10179-10220_highlighted.pdf),
 I was quickly able to come to page 37 that previously had censorship boxes, and
 looking on the same page of the
 [original](https://www.archives.gov/files/research/jfk/releases/2025/0318/124-10179-10220.pdf),
