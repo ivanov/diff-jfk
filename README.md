@@ -29,14 +29,9 @@ or copy when you end up seeking out the original, because in cases where the
 `diff-jfk` version is not legible.
 
 Now you have the necessary information, if you're ready to dive in, just click below:
-
-<br />
-<br />
-
 ##  [ >> Happy Sleuthing << ](2025)
 
 
-<br />
 <br />
 
 Otherwise, stick around for some more information and examples.
@@ -274,7 +269,7 @@ highlight files for them.
 
 If you want to leave a comment, or just come across something cool or
 interesting that you want to share with others, please open a new thread or
-join one over in the [discussions](https://github.com/ivanov/diff-jfk/discussions)
+join one over in the [discussions](https://github.com/ivanov/diff-jfk/discussions).
 
 Please report any issues you come across in the `diff-jfk` data. In particular,
 I'd like to know if I have mislabelled some of the 2025 releases which I marked
