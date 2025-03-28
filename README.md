@@ -154,6 +154,42 @@ pages. A handful of those just lost or gained a page or two, I was able to
 accommodate and fix, but there's more work to be done to completely close those
 out.
 
+
+<details open>
+
+<summary> Table of 26 files where previous version does not have same page number (click here toggle visibility)</summary>
+
+| File Name |  Num Pages | Previous File Name | Previous Num Pages | Page Difference | Notes |
+| --------- |  --------- | ------------------ | ------------------ | --------------- | ----- |
+| `2025/104-10302-10028.pdf` |  133 | 2023/docid-32401336.pdf | 140 | -7 | The President’s Intelligence Checklist. 2025 shorter by 7 pages, it starts at 21 Nov 1963, whereas in 2023 there was also 20 Nov 1963 – page scrabmled issues |
+| `2025/104-10330-10044.pdf` |  5 | 2023/docid-32404031.pdf | 6 | -1 | Page 1 from 2023 omitted in 2025, scanned in a slightly rotated orientation |
+| `2025/104-10330-10083.pdf` |  13 | 2023/docid-32404069.pdf | 14 | -1 | Page 1 from 2023 omitted in 2025, scanned in a slightly rotated orientation |
+| `2025/104-10332-10007.pdf` |  81 | 2023/docid-32404520.pdf | 77 | 4 | 4 pages inserted somewhere, order of pages different after page 35 |
+| `2025/104-10332-10008.pdf` |  22 | 2023/docid-32404521.pdf | 23 | -1 | Page 1 from 2023 omitted in 2025, scanned in a slightly rotated orientation |
+| `2025/104-10332-10009.pdf` |  76 | 2023/docid-32404522.pdf | 77 | -1 | None |
+| `2025/104-10332-10021.pdf` |  22 | 2023/docid-32404534.pdf | 23 | -1 | Page 1 from 2023 omitted in 2025 and order of pages is different |
+| `2025/124-10179-10217.pdf` |  2 | 2022/docid-32989640.pdf | 370 | -368 | None |
+| `2025/124-10179-10219_multirif.pdf` |  370 | 2023/124-10179-10219.pdf | 2 | 368 | None |
+| `2025/124-10179-10221_multirif.pdf` |  370 | 2022/docid-32989574.pdf | 640 | -270 | should actually be 2022/docid-32989640.pdf |
+| `2025/124-10185-10099 (c06716626).pdf` |  8 | 2023/docid-32989624.pdf | 288 | -280 | None |
+| `2025/124-10185-10099.pdf` |  170 | 2023/docid-32989624.pdf | 288 | -118 | 2025/124-10186-10041.pdf is 118 pages long, does it fit here?, also with 8 pages from c0671 below, there’s 2025/104-10210-10037.pdf that’s 110 pages long, as is 2025/104-10164-10110.pdf |
+| `2025/124-10185-10214.pdf` |  11 | 2022/docid-32989599.pdf | 126 | -115 | None |
+| `2025/124-10204-10101.pdf` |  10 | 2018/docid-32989602.pdf | 147 | -137 | None |
+| `2025/124-10206-10180.pdf` |  40 | 2022/docid-32290904.pdf | 12 | 28 | None |
+| `2025/124-10222-10171.pdf` |  3 | 2022/docid-32298395.pdf | 2 | 1 | Page 3 new in 2025 |
+| `2025/124-10226-10305.pdf` |  165 | 2022/docid-32300025.pdf | 35 | 130 | None |
+| `2025/124-10271-10299.pdf` |  14 | 2023/docid-32989588.pdf | 270 | -256 | None |
+| `2025/124-10271-10301.pdf` |  1 | 2022/docid-32989609.pdf | 223 | -222 | None |
+| `2025/124-10273-10086_multirif.pdf` |  440 | 2018/docid-32989602.pdf | 147 | 293 | None |
+| `2025/124-10273-10289_redacted.pdf` |  3057 | 2023/docid-32989646.pdf | 1417 | 1640 | None |
+| `2025/124-10274-10029.pdf` |  3 | 2022/docid-32989627.pdf | 304 | -301 | None |
+| `2025/124-90073-10039.pdf` |  28 | 2022/docid-32328335.pdf | 3 | 25 | None |
+| `2025/157-10014-10005.pdf` |  112 | 2023/docid-32423393.pdf | 113 | -1 | Page 61 from 2023 omitted in 2025 (as evidenced by page count at the bottom that goes 60 to 62. |
+| `2025/177-10002-10092.pdf` |  7 | 2023/177-10002-10092.pdf | 6 | 1 | Page 2 new in 2025 |
+| `2025/180-10147-10176.pdf` |  24 | 2023/180-10147-10176.pdf | 25 | -1 | Page 1 from 2023 omitted in 2025, scanned in a slightly rotated orientation, size mismatch |
+
+<details>
+
 It's not perfect, but it's a pretty damn good start.
 
 ## Previously unreleased files
