@@ -12,24 +12,34 @@ numbers, I get a higher total of 82,864 pages.
 Wouldn't it be nice if someone went through to highlight the newly un-redacted
 parts of previous reports? Well, dear reader, I got you!
 
-## `*_fresh.pdf` vs `*_highlighted.pdf`
+But first let me help you get oriented. 
 
-There are two flavors of PDFs that I've generated - the `_fresh` versions
+## `*_fresh` vs `*_highlighted`
+
+
+There are two flavors of PDFs that I've generated - `_fresh` and `_highlighted`.
+The `_fresh` versions
 contain *only* the pages where there is something different, and each page has
-some text at the top indicate what the corresponding page number was in the
-release document. There's also a `_highlighted` version, which contains whole
+some text at the top indicate what the corresponding page number was in the original
+released document. There's also a `_highlighted` version, which contains whole
 document, with the highlighting of differences in their entire context. The
 notes at the top of the highlighted document (and top of each fresh page) are
 in light blue so as not to be too intrusive, and you can highlight them to read
 or copy when you end up seeking out the original, because in cases where the
-diff-jfk version is illegible.
+`diff-jfk` version is not legible.
 
-Now you have information to dive in, go peruse the [2025](./2025) folder. On
-the `main` branch, it has been paginated to  fall within GitHub's limit of
-displaying only 1000 files. If you want to address the files by name directly,
-use the `flat` branch. Don't worry if that doesn't mean anything to you, just click below
+Now you have the necessary information, if you're ready to dive in, just click below:
+
+<br />
+<br />
 
 ##  [ >> Happy Sleuthing << ](2025)
+
+
+<br />
+<br />
+
+Otherwise, stick around for some more information and examples.
 
 ## Unredacted diffs
 
@@ -159,7 +169,7 @@ highlight files for them.
 
 
 <details open>
-<summary> Table of 94 files and their page counts, that were first released in 2025.</summary>
+<summary> Table of 94 files and their page counts, that were first released in 2025. (click here toggle visibility)</summary>
 
 | File Name |  Num Pages |
 | --------- |  --------- |
@@ -280,13 +290,15 @@ different version depending on when it was downloaded.
 
 It took more time than you might expect to tinker around and connect all of the
 dots to produce `diff-jfk`. I hope you enjoy perusing it as much as I do. If
-you end up finding something interesting, please link to either [this
+you end up finding something interesting, why not share it with others by
+posting in the [discussions](https://github.com/ivanov/diff-jfk/discussions).
+For attribution, please link to either [this
 post](https://pirsquared.org/blog/diff-jfk.html) or the [diff-jfk
-repository](https://github.com/ivanov/diff-jfk) (which you can also star if
-you've got a github account and are feeling generous, I also enabled
-sponsorship on that repo if you want to support my work financially). 
+repository](https://github.com/ivanov/diff-jfk), which you can also star if
+you've got a github account and are feeling generous. I also enabled
+sponsorship on that repo if you want to support my work financially. 
 
-Happy Sleuthing!
+##  [ >> Happy Sleuthing << ](2025)
 
 Paul Ivanov
 
