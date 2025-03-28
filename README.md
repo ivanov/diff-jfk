@@ -188,7 +188,7 @@ out.
 | `2025/177-10002-10092.pdf` |  7 | 2023/177-10002-10092.pdf | 6 | 1 | Page 2 new in 2025 |
 | `2025/180-10147-10176.pdf` |  24 | 2023/180-10147-10176.pdf | 25 | -1 | Page 1 from 2023 omitted in 2025, scanned in a slightly rotated orientation, size mismatch |
 
-<details>
+</details>
 
 It's not perfect, but it's a pretty damn good start.
 
