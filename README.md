@@ -71,14 +71,14 @@ details of the 14 countries' spy agencies which "have been most cooperative and 
 
 where one of the sources was a former protege of **Raul CASTRO** , one was and ambassador of a **North African** country in Cuba, and another was a Cuban ambassador in Western Europe (page 5).
 
-![104-10307-10006_page_5.png]()
+![](images/104-10307-10006_page_5.png)
 
 
 Document 104-10178-10000 contains, among other things, the tales of WKSCARLET-3,
 with some juicy bits about plans for that Venezuelan to bug the Colombian
 delegation in Rome during Colombian-Venezuelan border talks in 1973.
 
-![images/104-10178-10000_page_72.png]()
+![](images/104-10178-10000_page_72.png)
 
 The full-context [highlighted document](2025/104-10178-10000_highlighted.pdf) has 310 pages, whereas the [freshly declassified pages](2025/104-10178-10000_fresh.pdf) add up to 86. The image above is page 72 in the original document, and appears on page 9 of the fresh-only version.
 
@@ -91,7 +91,7 @@ Page 57 of 2023/docid-32404520.pdf and on the right is page 61 of
 2025/104-10332-10007.pdf (another example of "Department of State" and "State
 cover" being censored.
 
-![](images/2025/104-10332-10007_State_cover.png)
+![](images/104-10332-10007_State_cover.png)
 
 By the way, that's definitely one of the recurring themes for what I've come
 across being previously censored but not reveled in these documents: the use of
